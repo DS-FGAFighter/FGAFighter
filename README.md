@@ -6,4 +6,4 @@ O FGA Fighter é um jogo de combate entre personagens baseados nas engenharias d
 
 ## Tecnologias utilizadas
 
-* **Unity:** versão 5.6.0f3
+* **Unity:** versão 5.6.1f1
